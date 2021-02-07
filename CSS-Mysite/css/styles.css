@@ -1,0 +1,108 @@
+body{
+    text-align:center;
+}
+
+h1{
+    width: 20%;
+    margin: auto;
+}
+.propic{
+    position: relative;
+    /* margin: auto; */
+    margin-top: 5%;
+}
+
+.topblock{
+    background-color: aliceblue;
+    /* display: none; */
+    position: relative;
+    padding-top: 100px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.middle-container{
+    /* background-color: aliceblue; */
+    display: inline;
+    /* margin: auto; */
+    position: relative;
+}
+
+.skills{
+    /* background-color: aliceblue; */
+    display: inline;
+    margin-bottom: 0px  ;
+}
+.profile{
+    /* background-color: aliceblue; */
+}
+
+/* images */
+.comp{
+   
+    position: relative;
+    width: 4.75rem;
+    height: 4.75em;
+    float: left;
+    margin-left: 5%;
+    margin-top: 2% ;
+    margin-right: 3%;
+}
+
+.spanner{
+    
+    position: relative;
+    width: 4.75rem;
+    height: 4.75rem;
+    float: right;
+    margin-right: 5%;
+    margin-left: 3%;
+    margin-top: 2%;
+   
+}
+.skill-row1{
+    /* background-color: red; */
+    display: inline-block;
+    margin : 0px;
+    position: relative;
+    clear: left;
+    text-align: left;
+    overflow-wrap: normal;
+    /* margin-left : 5%; */
+}
+
+.skill-row2{
+    display: inline-block;
+    margin-left : 5%;
+    position: relative;
+    clear: right;
+    text-align: left;
+    overflow-wrap: normal;
+
+}
+
+
+
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 6px;
+    width: 3%;
+    border-color:grey;
+}
+.cloud1{
+    position: absolute;
+    right: 15%;
+    /* bottom: 10%; */
+}
+
+.cloud2{
+    position: absolute;
+    left: 15%;
+    margin-bottom: 3%;
+
+}
+
+.mountain{
+    position: relative;
+}

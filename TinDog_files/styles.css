@@ -1,0 +1,94 @@
+
+
+
+
+/* main heading */
+
+body{
+    font-family:  'Montserrat-slim', sans-serif;
+    
+}
+
+#title{
+    background-color: #ff4c68;
+    
+}
+/* headings */
+#title h1{
+    color: #fff;
+    font-family:  'Montserrat-black', sans-serif;
+    font-size: 4rem;
+    line-height: 1.5;
+    margin-left: 22%;
+    padding-top: 10%;
+    
+}
+
+
+/* brandname */
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    margin: 5% 10% 2% 10% ;
+    padding-right: 10%;
+}
+
+/* navitems */
+
+.nav-item{
+    font-size: 1.25rem;
+    margin-top: 20%;
+    /* padding: 3%; */
+    /* text-align: left; */
+}
+
+.navmenu{
+    /* margin-right: 15%; */
+}
+.iphone-dog{
+    transform: rotate(25deg);
+    padding: 10% 7% 10%;
+}
+
+/* buttons */
+
+.apple-button{
+    /* padding: 10px 5px 10px; */
+    margin-left: 22%;
+    margin-top: 15%;
+    margin-right: 5%;
+    margin-bottom:10%;
+    box-sizing: 5rem;
+}
+
+.google-button{
+    margin-top: 15%;
+    
+    /* margin-left: 5%; */
+    margin-bottom:10%;
+    box-sizing: 5rem;
+}
+
+/* features section */
+#features{
+    text-align: center;
+    margin-bottom: 5%;
+    padding: 7% 15% 7%;
+}
+
+.icon{
+    /* size: 2%; */
+   color: #ef8172;
+   margin-bottom: 5%;
+    
+   
+}
+
+div :hover .icon{
+    color: #ff4c68;
+}
+
+.para{
+    color:#6f6f6f;
+    font-family:  'Montserrat', sans-serif;
+}

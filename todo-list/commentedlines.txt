@@ -1,0 +1,54 @@
+   // if (today.getDay() ===6 || today.getDay() === 0){
+    //     res.send("<h1>Yeah Mate, Today is the day of dinkums </h1>");
+    // } 
+    // else{
+    //     res.send("<h1>Nah mate get back to what you're doing!!!</h1>");
+    // }
+    // switch(currentday){
+    //     case 0:
+    //         whatday= "Sunday";
+    //     break;
+        
+    //     case 1:
+    //         whatday= "Monday";
+    //     break;
+        
+    //     case 2:
+    //         whatday= "Tuesday";
+    //     break;
+        
+    //     case 3:
+    //         whatday= "Wednesday";
+    //     break;
+        
+    //     case 4:
+    //         whatday= "Thursday";
+    //     break;
+        
+    //     case 5:
+    //         whatday= "Friday";
+    //     break;
+        
+    //     case 6:
+    //         whatday= "Saturday";
+    //     break;
+        
+    //     default:
+    //         console.log("Error : Current day is equal to : " + currentday);
+    // }
+
+
+
+
+
+
+      <!-- <li>
+                Buy Beer
+            </li>
+            <li>
+                drink Beer
+            </li>
+            <li>
+                Clean the dishes
+            </li>
+            -->
